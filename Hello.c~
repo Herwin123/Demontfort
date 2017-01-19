@@ -1,0 +1,8 @@
+
+#include <stdio.h>
+
+
+int main() {
+	printf("Fare thee well!");
+return 0;
+}
